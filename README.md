@@ -1,16 +1,68 @@
-# art_app
+# 🖼️ Art Chronicle 🎨
 
-A new Flutter project.
+**Art Chronicle** is a beautiful Flutter app that showcases famous artworks from various artistic movements like Renaissance, Baroque, Impressionism, Surrealism, and more. Users can browse art categories, tap on a category to view featured artworks, and read descriptions with high-quality images.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📸 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📚 Categorized artworks by major art movements
+- 🖼️ Image-rich grid view with smooth design
+- 🧠 Tap to explore artwork details
+- 🌈 Custom gradient UI with elegant fonts
+- 📱 Responsive layout for all screen sizes
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📂 Project Structure
+
+```bash
+art_app/
+├── assets/
+│   └── images/              # All artwork images (e.g., mona_lisa.jpg)
+├── lib/
+│   ├── constant.dart        # Contains `artData` JSON
+│   ├── home_page.dart       # Main UI with grid view of categories
+│   ├── art_details.dart     # Detail screen for each art category
+│   ├── artwork_view.dart    # Details screen for each art piece with their details 
+│   └── main.dart            # Entry point of the app
+├── pubspec.yaml             # Dependencies and assets list
+└── README.md                # You're here!
+```
+
+---
+---
+
+## 📱 Screenshots
+**Home Screen**<br>
+![Home](assets/images/Screenshot-1.png) 
+
+**Art Category Details Screen**<br>
+![Details](assets/images/Screenshot-2.png) 
+
+**Artwork Details Screen**<br>
+![Artwork](assets/images/Screenshot-3.png) 
+
+---
+
+## 🛠️ Setup Instructions
+
+**Clone this repo**
+```bash
+git clone https://github.com/elmahtoasean/art_app.git
+cd art_app
+```
+
+**Install dependencies**
+```bash
+flutter pub get
+```
+
+**Add assets**
+- Place your artwork images in `assets/images/`
+- Ensure file names match those in your `constant.dart`
+
+**Run the app**
+```bash
+flutter run
+```
