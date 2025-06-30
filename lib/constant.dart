@@ -83,6 +83,70 @@ The painting is executed in oil on canvas and measures 44.5 cm high by 39 cm wid
 A restoration in 1994 enhanced the subtle color scheme and the intimacy of the girl's gaze. During this process, it was discovered that the background, now appearing somewhat mottled and dark, was originally a deep enamel-like green created by a thin transparent glaze over a black base. Over time, the organic pigments in the glaze have faded. In 2014, Dutch astrophysicist Vincent Icke suggested that the earring may actually be made of polished tin rather than pearl, based on its reflective qualities, shape, and size.
 """,
       "image": "images/Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "title": "The Night Watch",
+      "artist": "Rembrandt van Rijn",
+      "year": "1642",
+      "description":
+          "Dramatic civic guard portrait, alive with light and movement.",
+      "artworkDetails": """
+Militia Company of District II under the Command of Captain Frans Banninck Cocq, also known as The Shooting Company of Frans Banning Cocq and Willem van Ruytenburch, but commonly referred to as The Night Watch (Dutch: De Nachtwacht), is a 1642 painting by Rembrandt van Rijn. It is in the collection of the Amsterdam Museum but is prominently displayed in the Rijksmuseum as the best-known painting in its collection. The Night Watch is one of the most famous Dutch Golden Age paintings. Rembrandt's large painting (363 by 437 centimetres, or 12 by 14½ feet) is famed for transforming a group portrait of a civic guard company into a compelling drama energized by light and shadow (tenebrism). The title is a misnomer; the painting does not depict a nocturnal scene.
+
+The Night Watch was completed in 1642 at the peak of the Dutch Golden Age. It depicts the eponymous company moving out, led by Captain Frans Banninck Cocq (dressed in black, with a red sash) and his lieutenant, Willem van Ruytenburch (dressed in yellow, with a white sash). Behind them, the company's colors are carried by the ensign, Jan Visscher Cornelissen. Rembrandt incorporated the traditional emblem of the arquebusiers in the figure of the young girl who carries a dead chicken on her belt, referencing the clauweniers (arquebusiers) and a type of drinking horn used at group banquets.
+
+The painting was commissioned around 1639 by Captain Banninck Cocq and seventeen members of his Kloveniers (civic militia guards). Eighteen names appear on a shield, painted circa 1715, in the center-right background, as the hired drummer was added to the painting for free. A total of 34 characters appear in the painting. Rembrandt was paid 1,600 guilders for the painting (each person paid one hundred), a large sum at the time. This was one of a series of seven similar paintings of the militiamen (Dutch: Schuttersstuk) commissioned during that time from various artists.
+
+The painting was commissioned to hang in the banquet hall of the newly built Kloveniersdoelen (Musketeers' Meeting Hall) in Amsterdam. Some have suggested that the occasion for Rembrandt's commission and the series of other commissions given to other artists was the visit of the French queen, Marie de' Medici, in 1638. Even though she was escaping from her exile from France ordered by her son Louis XIII, the queen's arrival was met with great pageantry.
+
+It is thought the painting was completed in a lean-to in Rembrandt's garden as it is too large to fit into his Amsterdam studio.
+""",
+      "image": "images/The_Night_Watch.jpg"
+    },
+    {
+      "title": "Las Meninas",
+      "artist": "Diego Velázquez",
+      "year": "1656",
+      "description": "Complex royal scene with painter and court in Madrid.",
+      "artworkDetails": """
+Las Meninas (Spanish for "The Ladies-in-waiting") is a 1656 painting by Diego Velázquez, the leading artist of the Spanish Baroque, and is housed in the Museo del Prado in Madrid. It is considered one of the most widely analyzed works in Western painting, renowned for its complex and enigmatic composition that raises questions about reality and illusion, as well as the relationship between the viewer and the figures depicted.
+
+The painting is believed to show a room in the Royal Alcazar of Madrid during the reign of King Philip IV of Spain. It presents several figures, most identifiable from the Spanish court, captured in a moment as if in a snapshot. The five-year-old Infanta Margaret Theresa is surrounded by her entourage of maids of honour, a chaperone, a bodyguard, two little people, and a dog. Just behind them, Velázquez portrays himself working at a large canvas, looking outward beyond the pictorial space to where the viewer would stand. In the background, a mirror reflects the upper bodies of the king and queen, appearing to place them outside the picture space in a position similar to that of the viewer, though some scholars speculate their image is a reflection from the painting Velázquez is shown working on.
+
+Las Meninas has long been recognized as one of the most important paintings in the history of Western art. The Baroque painter Luca Giordano called it the "theology of painting," and in 1827, Sir Thomas Lawrence, president of the Royal Academy of Arts, described it as "the true philosophy of the art." More recently, it has been described as Velázquez's supreme achievement—a highly self-conscious, calculated demonstration of what painting could achieve, and perhaps the most searching comment ever made on the possibilities of the easel painting.
+""",
+      "image": "images/Las_Meninas.jpg"
+    },
+    {
+      "title": "Judith Slaying Holofernes",
+      "artist": "Artemisia Gentileschi",
+      "year": "c. 1620",
+      "description":
+          "Dramatic, violent Baroque scene of Judith beheading Holofernes.",
+      "artworkDetails": """
+Judith Slaying Holofernes (c. 1620), now at the Uffizi Gallery in Florence, is the renowned painting by Baroque artist Artemisia Gentileschi depicting the assassination of Holofernes from the apocryphal Book of Judith. Compared to her earlier interpretation from Naples (c. 1612), this version shows subtle but marked improvements in composition and detail, displaying the skill of a cultivated Baroque painter. Gentileschi’s adept use of chiaroscuro and realism expresses the violent tension between Judith, Abra, and the dying Holofernes.
+
+Gentileschi centers her work on the labor of the killing, forcing the gaze to start amid the tangle of blood, limbs, and metal. Her ability to display brutal realism is evident in details such as the arc of blood that spatters across the frame. The scene uses chiaroscuro—drastic contrast between light and dark—both literally and figuratively.
+
+Holofernes struggles in vain against Abra as the two women force him down with strong arms. Their sleeves are rolled up, as if performing an unavoidable domestic chore, and their faces show staunch resolve. Judith drives the sword, noticeably vertical and shaped in a way that alludes to a cross, into flesh with exertive force. Abra, depicted as a youthful mirror to Judith, holds firm to Holofernes’s left arm as he pushes against her in desperation. Holofernes, whose blood puddles and spurts a deep red against the white sheets, is overpowered and without hope.
+
+Subject: The Book of Judith
+
+The Book of Judith is an apocryphal text that follows the triumph of Judith, a Jewish widow from Bethulia, in her assassination of the Assyrian General Holofernes. Bethulia was under siege and on the verge of surrender after the Assyrian invasion. Unable to stand by while her people suffered, Judith enacted divine justice by killing Holofernes and dismantling the Assyrian forces.
+
+Judith, with her handmaiden Abra, feigned surrender and entered the enemy camp. Holofernes, taken by Judith, invited her to a banquet in his private quarters. After drinking himself into a stupor, Holofernes was beheaded by Judith in two blows. Judith and Abra returned to Bethulia with the severed head, ending the conflict.
+
+        "Her sandal ravished his eye,  
+        Her beauty made captive his soul,  
+        The sword passed through his neck."  
+        — Book of Judith, 16:9
+
+The Book of Judith is an apocryphal text that follows the triumph of Judith, a Jewish widow from Bethulia, in her assassination of the Assyrian General Holofernes. Bethulia was under siege and on the verge of surrender following the invasion of the Assyrian army. Unable to stand by while her people suffered, Judith set out to enact divine justice by killing their general, Holofernes, and ultimately dismantling the Assyrian forces.
+
+With a scheme to feign surrender, Judith adorned herself in finery to seduce Holofernes. Along with her handmaiden, Abra, the two women approached the enemy encampment with an act of deference that granted them entry. Holofernes quickly succumbed to Judith and invited her to a banquet in his private quarters soon after her arrival.
+
+Holofernes drank himself into a stupor on the night of the banquet while celebrating his perceived victory. Judith, who he had hoped to bed, used this as her opportunity to finish her task. With his sword, she beheads Holofernes in two fell blows. Judith and Abra then return to Bethulia with the severed head of the general in a sack, effectively ending the conflict.""",
+      "image": "images/Giuditta_decapita_Oloferne.jpg"
     }
   ],
   // ...existing code...
@@ -173,6 +237,7 @@ The rocky landscape in the background represents the tip of Cap de Creus in nort
       "image": "images/The_Persistence_of_Memory.jpg"
     }
   ],
+
 // ...existing code...
   // "American Realism": [
   //   {
